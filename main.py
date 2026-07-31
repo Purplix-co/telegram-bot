@@ -14,7 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/xv3gasx/Murder-Myster
 ```""",
 
     "script2": """```lua
--- Вставь сюда второй скрипт
+-- Вставь сюда второй скрипт.
 ```""",
 
     "script3": """```lua
